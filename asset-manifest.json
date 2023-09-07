@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c871b867.css",
+    "main.js": "/static/js/main.15b1d8f9.js",
+    "static/js/787.88311068.chunk.js": "/static/js/787.88311068.chunk.js",
+    "static/media/smartwatch.jpg": "/static/media/smartwatch.51d723c042c06c76fae9.jpg",
+    "index.html": "/index.html",
+    "main.c871b867.css.map": "/static/css/main.c871b867.css.map",
+    "main.15b1d8f9.js.map": "/static/js/main.15b1d8f9.js.map",
+    "787.88311068.chunk.js.map": "/static/js/787.88311068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c871b867.css",
+    "static/js/main.15b1d8f9.js"
+  ]
+}
